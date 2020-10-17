@@ -39,7 +39,7 @@ Our project are done on Google Colab, is not just a wonderful platform for colla
 
 ### [Convolutional Neural Network](https://www.sciencedirect.com/topics/engineering/convolutional-neural-network)
 
-### [Computer Vision] (https://machinelearningmastery.com/what-is-computer-vision)
+### [Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
 
 
 ## Special Thanks
