@@ -15,7 +15,8 @@ With the easing of measures, we want to further assist them to increase their bu
 More details are in the proposal
 
 ## Benefits
-- removing the psychological barrier for shoppers to enter a retail store due to the hassle from Safe Entry
+- removing the psychological barrier for shoppers to enter a retail store due to the hassle from Safe Entry.
+  Thus 
 - reducing unnecessary manpower allocation at an area that's already limited by the holding capactiy
 - Providing an easier contact tracing methods when phase 3 of Circuit Breaker arrives (when measures on larger events are loosen)
   This could be a possible driver for an early phase 3 as necessary technologies are available for monitoring the cases.
@@ -37,9 +38,9 @@ More details are in the proposal
 #### [Google Colab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw2P6AsbzsAhWFheYKHTYuBsMQFjAAegQIDhAD&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
 Our project are done on Google Colab, is not just a wonderful platform for collaboration but google also provides *free GPU* for deeplearning wowzz.
 
-### [Convolutional Neural Network](https://www.sciencedirect.com/topics/engineering/convolutional-neural-network)
+#### [Convolutional Neural Network](https://www.sciencedirect.com/topics/engineering/convolutional-neural-network)
 
-### [Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
+#### [Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
 
 
 ## Special Thanks
