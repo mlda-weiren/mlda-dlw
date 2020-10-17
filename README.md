@@ -22,7 +22,7 @@ More details are in the proposal.
   This could be a possible driver for an early phase 3 as necessary technologies are available for monitoring the cases.
   Thus, providing business continuity for those business that have yet to operate and a loosen measures for those already in business.
 ## Other Benefits
-- More precise contact tracing with the already exisiting physical security measures
+- More precise contact tracing with the already exisiting physical security hardware
 
 ## Flow of the Codes
 ![alt text](https://github.com/mlda-weiren/mlda-dlw/blob/main/Flowchart.jpg)
