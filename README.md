@@ -40,8 +40,8 @@ Our project are done on Google Colab, it is not just a wonderful platform for co
 
 #### [Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/)
 
-### [Data Set](https://github.com/mlda-weiren/mlda-dlw/blob/main/dataset_download)
-This project uses the Market-1501 dataset which has 751 class
+### Data Set
+This project uses the [Market-1501](https://github.com/mlda-weiren/mlda-dlw/blob/main/dataset_download) dataset which has 751 class
 
 
 ## Special Thanks
