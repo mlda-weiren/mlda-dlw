@@ -19,6 +19,7 @@ More details are in the proposal
 - reducing unnecessary manpower allocation at an area that's already limited by the holding capactiy
 - Providing an easier contact tracing methods when phase 3 of Circuit Breaker arrives (when measures on larger events are loosen)
   This could be a possible driver for an early phase 3 as necessary technologies are available for monitoring the cases.
+  Thus, providing business continuity for those business that have yet to operate.
 ## Other Benefits
 - More precise contact tracing with the already exisiting physical security measures
 
@@ -32,8 +33,13 @@ More details are in the proposal
 
 
 ## Technology Used
+
 #### [Google Colab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw2P6AsbzsAhWFheYKHTYuBsMQFjAAegQIDhAD&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
 Our project are done on Google Colab, is not just a wonderful platform for collaboration but google also provides *free GPU* for deeplearning wowzz.
+
+### [Convolutional Neural Network](https://www.sciencedirect.com/topics/engineering/convolutional-neural-network)
+
+### [Computer Vision] (https://machinelearningmastery.com/what-is-computer-vision/)
 
 
 ## Special Thanks
