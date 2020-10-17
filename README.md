@@ -7,14 +7,22 @@ This is a documentation of all our files from the project!
 We aims improve business continuity in this COVID-19 climate. This which in turn to stimulate the economy.  
 Our project focus on make Safe Entry more convient for all by making the process more labor efficient
 
+Benefits
+- removing the psychological barrier of wanting to enter a retail store due to the hassle from Safe Entry
+
+
+
+
+## Flow of the Codes
+![alt text](https://github.com/mlda-weiren/mlda-dlw/blob/main/Flowchart.jpg)
+
+## Results of the training
+![alt text](https://github.com/mlda-weiren/mlda-dlw/blob/main/train.jpg)
+
 
 ## Technology Used
-### [Google Colab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw2P6AsbzsAhWFheYKHTYuBsMQFjAAegQIDhAD&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
+#### [Google Colab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw2P6AsbzsAhWFheYKHTYuBsMQFjAAegQIDhAD&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
 Our project are done on Google Colab, is not just a wonderful platform for collaboration but google also provides *free GPU* for deeplearning wowzz.
-
-
-
-
 
 
 ## Special Thanks
