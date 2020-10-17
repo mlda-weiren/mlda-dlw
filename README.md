@@ -3,6 +3,9 @@
 ### mlda-dlw
 This is a documentation of all our files from the project! 
 
+## Goals
+We aims improve business continuity in this COVID-19 climate. This which in turn to stimulate the economy.  
+Our project focus on make Safe Entry more convient for all by making the process more labor efficient
 
 
 ## Technology Used
@@ -11,6 +14,11 @@ Our project are done on Google Colab, is not just a wonderful platform for colla
 
 
 
+
+
+
+## Special Thanks
+[Layumi](https://github.com/layumi/Person_reID_baseline_pytorch)'s github repository
 
 ## Citation 
 @article{zheng2019joint,
