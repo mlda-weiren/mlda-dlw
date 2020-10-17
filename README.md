@@ -1,8 +1,13 @@
-# mlda-dlw
-MLDA Deep Learning Week Hackathon
 
-Compilation of all our jupyter notebook codes! 
+# MLDA Deep Learning Week Hackathon
+### mlda-dlw
+This is a documentation of all our files from the project! 
 
+
+
+## Technology Used
+### [Google Colab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw2P6AsbzsAhWFheYKHTYuBsMQFjAAegQIDhAD&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
+Our project are done on Google Colab, is not just a wonderful platform for collaboration but google also provides *free GPU* for deeplearning wowzz.
 
 
 
